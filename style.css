@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  
+  background-color: #30584f;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.title {
+  background-color: #3a1d1d;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+  padding: 10px 30px;
+  margin-bottom: 20px;
+}
+
+.outer-box {
+  background-color: black;
+  border: 5px solid red;
+  padding: 30px;
+}
+
+.box {
+  background-color: #30e0c0;
+  margin-bottom: 30px;
+  padding: 20px;
+}
+
+.box-2 {
+  padding: 0;
+}
+
+.inner-box {
+  background-color: #30e0c0;
+  border: 2px solid green;
+  margin: 20px;
+  padding: 10px;
+}
